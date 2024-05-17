@@ -1,0 +1,12 @@
+{
+    "imię": "Jan",
+    "nazwisko": "Kowalski",
+    "wiek": 30,
+    "zawód": "Inżynier",
+    "adres": {
+        "ulica": "Mickiewicza 5",
+        "miasto": "Warszawa",
+        "kod_pocztowy": "00-000"
+    },
+    "hobby": ["sport", "czytanie", "podróże"]
+}

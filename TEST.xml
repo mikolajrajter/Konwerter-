@@ -1,0 +1,16 @@
+<persona>
+    <imie>Jan</imie>
+    <nazwisko>Kowalski</nazwisko>
+    <wiek>30</wiek>
+    <zawod>Inżynier</zawod>
+    <adres>
+        <ulica>Mickiewicza 5</ulica>
+        <miasto>Warszawa</miasto>
+        <kod_pocztowy>00-000</kod_pocztowy>
+    </adres>
+    <hobby>
+        <hobby1>sport</hobby1>
+        <hobby2>czytanie</hobby2>
+        <hobby3>podróże</hobby3>
+    </hobby>
+</persona>
